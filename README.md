@@ -1,5 +1,8 @@
 # The-Location-Data-of-Schools-in-China
 中国所有学校地理位置Json数据库（省市区地址，坐标）（分校区，大学，中学，小学等等）（Python爬虫）
+
+基于项目[pg7go/The-Location-Data-of-Schools-in-China](https://github.com/pg7go/The-Location-Data-of-Schools-in-China)做了两个参数化
+
 # 已收集数据（JSON格式）
 * 所有学校（28610个，分校区，省市区，详细地址，坐标）  
 * 所有学校（28610个，分校区，省市区）  
